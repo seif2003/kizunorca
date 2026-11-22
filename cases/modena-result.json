@@ -1,0 +1,9561 @@
+{
+ "label": "Modène (Italie) — réseau réel publié",
+ "lim": {
+  "minPressure": 20,
+  "maxVelocity": 1.2,
+  "peakFactor": 1,
+  "minVelocity": 0.3
+ },
+ "before": {
+  "cost": 10591659.066200001,
+  "pmin": 20.09,
+  "vmax": 1.99,
+  "vmean": 0.5910410094637224,
+  "qmax": 222.250562,
+  "lowP": 0,
+  "fastV": 21,
+  "slowV": 78,
+  "pipes": 317
+ },
+ "after": {
+  "cost": 11925518.859800007,
+  "pmin": 20,
+  "vmax": 1.2,
+  "vmean": 0.6268769716088328,
+  "qmax": 288.304023,
+  "lowP": 0,
+  "fastV": 0,
+  "slowV": 53,
+  "pipes": 317
+ },
+ "seconds": 157.401,
+ "feasible": true,
+ "message": {
+  "k": "Convergé : {k} relances de suite sans gain.",
+  "p": {
+   "k": 3
+  }
+ },
+ "history": [
+  {
+   "gen": 1,
+   "value": 241200533.0329999,
+   "feasible": false
+  },
+  {
+   "gen": 2,
+   "value": 236373254.58439982,
+   "feasible": false
+  },
+  {
+   "gen": 3,
+   "value": 236373254.58439982,
+   "feasible": false
+  },
+  {
+   "gen": 4,
+   "value": 236373254.58439982,
+   "feasible": false
+  },
+  {
+   "gen": 5,
+   "value": 215806126.7990001,
+   "feasible": false
+  },
+  {
+   "gen": 6,
+   "value": 210352608.47719997,
+   "feasible": false
+  },
+  {
+   "gen": 7,
+   "value": 213218637.11380005,
+   "feasible": false
+  },
+  {
+   "gen": 8,
+   "value": 202360152.20160016,
+   "feasible": true
+  },
+  {
+   "gen": 9,
+   "value": 199421022.68440014,
+   "feasible": true
+  },
+  {
+   "gen": 10,
+   "value": 182665981.4066,
+   "feasible": false
+  },
+  {
+   "gen": 11,
+   "value": 182968553.7510001,
+   "feasible": true
+  },
+  {
+   "gen": 12,
+   "value": 182968553.7510001,
+   "feasible": true
+  },
+  {
+   "gen": 13,
+   "value": 174249998.9528,
+   "feasible": false
+  },
+  {
+   "gen": 14,
+   "value": 165031680.14699996,
+   "feasible": true
+  },
+  {
+   "gen": 15,
+   "value": 162712966.52400002,
+   "feasible": true
+  },
+  {
+   "gen": 16,
+   "value": 162712966.52400002,
+   "feasible": true
+  },
+  {
+   "gen": 17,
+   "value": 146360185.22339994,
+   "feasible": false
+  },
+  {
+   "gen": 18,
+   "value": 146682980.1252,
+   "feasible": false
+  },
+  {
+   "gen": 19,
+   "value": 146682980.1252,
+   "feasible": false
+  },
+  {
+   "gen": 20,
+   "value": 146785705.60360003,
+   "feasible": true
+  },
+  {
+   "gen": 21,
+   "value": 146785705.60360003,
+   "feasible": true
+  },
+  {
+   "gen": 22,
+   "value": 144205233.58639997,
+   "feasible": true
+  },
+  {
+   "gen": 23,
+   "value": 143413221.6642,
+   "feasible": true
+  },
+  {
+   "gen": 24,
+   "value": 141330942.94299996,
+   "feasible": true
+  },
+  {
+   "gen": 25,
+   "value": 140126121.52699998,
+   "feasible": true
+  },
+  {
+   "gen": 26,
+   "value": 140126121.52699998,
+   "feasible": true
+  },
+  {
+   "gen": 27,
+   "value": 139308401.05559993,
+   "feasible": true
+  },
+  {
+   "gen": 28,
+   "value": 132702823.59900007,
+   "feasible": true
+  },
+  {
+   "gen": 29,
+   "value": 132702823.59900007,
+   "feasible": true
+  },
+  {
+   "gen": 30,
+   "value": 131329652.53619999,
+   "feasible": true
+  },
+  {
+   "gen": 31,
+   "value": 131221270.82799998,
+   "feasible": true
+  },
+  {
+   "gen": 32,
+   "value": 131221270.82799998,
+   "feasible": true
+  },
+  {
+   "gen": 33,
+   "value": 128786447.65040003,
+   "feasible": true
+  },
+  {
+   "gen": 34,
+   "value": 121966637.25119998,
+   "feasible": true
+  },
+  {
+   "gen": 35,
+   "value": 121966637.25119998,
+   "feasible": true
+  },
+  {
+   "gen": 36,
+   "value": 120216611.58240004,
+   "feasible": true
+  },
+  {
+   "gen": 37,
+   "value": 113209453.64200002,
+   "feasible": true
+  },
+  {
+   "gen": 38,
+   "value": 113209453.64200002,
+   "feasible": true
+  },
+  {
+   "gen": 39,
+   "value": 113209453.64200002,
+   "feasible": true
+  },
+  {
+   "gen": 40,
+   "value": 113081995.55040002,
+   "feasible": true
+  },
+  {
+   "gen": 41,
+   "value": 113081995.55040002,
+   "feasible": true
+  },
+  {
+   "gen": 42,
+   "value": 113081995.55040002,
+   "feasible": true
+  },
+  {
+   "gen": 43,
+   "value": 109011126.88620003,
+   "feasible": true
+  },
+  {
+   "gen": 44,
+   "value": 108888187.21439998,
+   "feasible": true
+  },
+  {
+   "gen": 45,
+   "value": 104847405.3066,
+   "feasible": true
+  },
+  {
+   "gen": 46,
+   "value": 104847405.3066,
+   "feasible": true
+  },
+  {
+   "gen": 47,
+   "value": 103643097.18519993,
+   "feasible": true
+  },
+  {
+   "gen": 48,
+   "value": 103643097.18519993,
+   "feasible": true
+  },
+  {
+   "gen": 49,
+   "value": 103643097.18519993,
+   "feasible": true
+  },
+  {
+   "gen": 50,
+   "value": 102737527.74499997,
+   "feasible": true
+  },
+  {
+   "gen": 51,
+   "value": 99927787.66560006,
+   "feasible": true
+  },
+  {
+   "gen": 52,
+   "value": 99927787.66560006,
+   "feasible": true
+  },
+  {
+   "gen": 53,
+   "value": 95921962.63,
+   "feasible": true
+  },
+  {
+   "gen": 54,
+   "value": 95921962.63,
+   "feasible": true
+  },
+  {
+   "gen": 55,
+   "value": 95921962.63,
+   "feasible": true
+  },
+  {
+   "gen": 56,
+   "value": 95921962.63,
+   "feasible": true
+  },
+  {
+   "gen": 57,
+   "value": 94249445.6766,
+   "feasible": true
+  },
+  {
+   "gen": 58,
+   "value": 94249445.6766,
+   "feasible": true
+  },
+  {
+   "gen": 59,
+   "value": 93606513.3436,
+   "feasible": true
+  },
+  {
+   "gen": 60,
+   "value": 93606513.3436,
+   "feasible": true
+  },
+  {
+   "gen": 61,
+   "value": 93606513.3436,
+   "feasible": true
+  },
+  {
+   "gen": 62,
+   "value": 91413574.57419999,
+   "feasible": true
+  },
+  {
+   "gen": 63,
+   "value": 91413574.57419999,
+   "feasible": true
+  },
+  {
+   "gen": 64,
+   "value": 86173575.86820003,
+   "feasible": true
+  },
+  {
+   "gen": 65,
+   "value": 86173575.86820003,
+   "feasible": true
+  },
+  {
+   "gen": 66,
+   "value": 86173575.86820003,
+   "feasible": true
+  },
+  {
+   "gen": 67,
+   "value": 86173575.86820003,
+   "feasible": true
+  },
+  {
+   "gen": 68,
+   "value": 86173575.86820003,
+   "feasible": true
+  },
+  {
+   "gen": 69,
+   "value": 82399164.79120003,
+   "feasible": false
+  },
+  {
+   "gen": 70,
+   "value": 82399164.79120003,
+   "feasible": false
+  },
+  {
+   "gen": 71,
+   "value": 82399164.79120003,
+   "feasible": false
+  },
+  {
+   "gen": 72,
+   "value": 82399164.79120003,
+   "feasible": false
+  },
+  {
+   "gen": 73,
+   "value": 83512508.52040003,
+   "feasible": false
+  },
+  {
+   "gen": 74,
+   "value": 83512508.52040003,
+   "feasible": false
+  },
+  {
+   "gen": 75,
+   "value": 83512508.52040003,
+   "feasible": false
+  },
+  {
+   "gen": 76,
+   "value": 83512508.52040003,
+   "feasible": false
+  },
+  {
+   "gen": 77,
+   "value": 83512508.52040003,
+   "feasible": false
+  },
+  {
+   "gen": 78,
+   "value": 83202280.56260003,
+   "feasible": false
+  },
+  {
+   "gen": 79,
+   "value": 83202280.56260003,
+   "feasible": false
+  },
+  {
+   "gen": 80,
+   "value": 83202280.56260003,
+   "feasible": false
+  },
+  {
+   "gen": 81,
+   "value": 83202280.56260003,
+   "feasible": false
+  },
+  {
+   "gen": 82,
+   "value": 83202280.56260003,
+   "feasible": false
+  },
+  {
+   "gen": 83,
+   "value": 83202280.56260003,
+   "feasible": false
+  },
+  {
+   "gen": 84,
+   "value": 82875065.32419999,
+   "feasible": true
+  },
+  {
+   "gen": 85,
+   "value": 82875065.32419999,
+   "feasible": true
+  },
+  {
+   "gen": 86,
+   "value": 82875065.32419999,
+   "feasible": true
+  },
+  {
+   "gen": 87,
+   "value": 78904558.14220002,
+   "feasible": false
+  },
+  {
+   "gen": 88,
+   "value": 78904558.14220002,
+   "feasible": false
+  },
+  {
+   "gen": 89,
+   "value": 77000960.87900005,
+   "feasible": false
+  },
+  {
+   "gen": 90,
+   "value": 78539042.17920004,
+   "feasible": true
+  },
+  {
+   "gen": 91,
+   "value": 78539042.17920004,
+   "feasible": true
+  },
+  {
+   "gen": 92,
+   "value": 78539042.17920004,
+   "feasible": true
+  },
+  {
+   "gen": 93,
+   "value": 78539042.17920004,
+   "feasible": true
+  },
+  {
+   "gen": 94,
+   "value": 78539042.17920004,
+   "feasible": true
+  },
+  {
+   "gen": 95,
+   "value": 76705778.68279998,
+   "feasible": true
+  },
+  {
+   "gen": 96,
+   "value": 76705778.68279998,
+   "feasible": true
+  },
+  {
+   "gen": 97,
+   "value": 76705778.68279998,
+   "feasible": true
+  },
+  {
+   "gen": 98,
+   "value": 76705778.68279998,
+   "feasible": true
+  },
+  {
+   "gen": 99,
+   "value": 76705778.68279998,
+   "feasible": true
+  },
+  {
+   "gen": 100,
+   "value": 76705778.68279998,
+   "feasible": true
+  },
+  {
+   "gen": 101,
+   "value": 76705778.68279998,
+   "feasible": true
+  },
+  {
+   "gen": 102,
+   "value": 76705778.68279998,
+   "feasible": true
+  },
+  {
+   "gen": 103,
+   "value": 76705778.68279998,
+   "feasible": true
+  },
+  {
+   "gen": 104,
+   "value": 76075278.47699998,
+   "feasible": true
+  },
+  {
+   "gen": 105,
+   "value": 76075278.47699998,
+   "feasible": true
+  },
+  {
+   "gen": 106,
+   "value": 76075278.47699998,
+   "feasible": true
+  },
+  {
+   "gen": 107,
+   "value": 76075278.47699998,
+   "feasible": true
+  },
+  {
+   "gen": 108,
+   "value": 76075278.47699998,
+   "feasible": true
+  },
+  {
+   "gen": 109,
+   "value": 76075278.47699998,
+   "feasible": true
+  },
+  {
+   "gen": 110,
+   "value": 76075278.47699998,
+   "feasible": true
+  },
+  {
+   "gen": 111,
+   "value": 76075278.47699998,
+   "feasible": true
+  },
+  {
+   "gen": 112,
+   "value": 76061248.43819997,
+   "feasible": true
+  },
+  {
+   "gen": 113,
+   "value": 76061248.43819997,
+   "feasible": true
+  },
+  {
+   "gen": 114,
+   "value": 73416834.75620002,
+   "feasible": true
+  },
+  {
+   "gen": 115,
+   "value": 73416834.75620002,
+   "feasible": true
+  },
+  {
+   "gen": 116,
+   "value": 73416834.75620002,
+   "feasible": true
+  },
+  {
+   "gen": 117,
+   "value": 72058990.33580004,
+   "feasible": true
+  },
+  {
+   "gen": 118,
+   "value": 72058990.33580004,
+   "feasible": true
+  },
+  {
+   "gen": 119,
+   "value": 72058990.33580004,
+   "feasible": true
+  },
+  {
+   "gen": 120,
+   "value": 72058990.33580004,
+   "feasible": true
+  },
+  {
+   "gen": 121,
+   "value": 72058990.33580004,
+   "feasible": true
+  },
+  {
+   "gen": 122,
+   "value": 72058990.33580004,
+   "feasible": true
+  },
+  {
+   "gen": 123,
+   "value": 72058990.33580004,
+   "feasible": true
+  },
+  {
+   "gen": 124,
+   "value": 72058990.33580004,
+   "feasible": true
+  },
+  {
+   "gen": 125,
+   "value": 71800455.68220004,
+   "feasible": true
+  },
+  {
+   "gen": 126,
+   "value": 70505166.18220001,
+   "feasible": true
+  },
+  {
+   "gen": 127,
+   "value": 70505166.18220001,
+   "feasible": true
+  },
+  {
+   "gen": 128,
+   "value": 70505166.18220001,
+   "feasible": true
+  },
+  {
+   "gen": 129,
+   "value": 70505166.18220001,
+   "feasible": true
+  },
+  {
+   "gen": 130,
+   "value": 70505166.18220001,
+   "feasible": true
+  },
+  {
+   "gen": 131,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 132,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 133,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 134,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 135,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 136,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 137,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 138,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 139,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 140,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 141,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 142,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 143,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 144,
+   "value": 70170073.6844,
+   "feasible": true
+  },
+  {
+   "gen": 145,
+   "value": 69653895.6056,
+   "feasible": true
+  },
+  {
+   "gen": 146,
+   "value": 69653895.6056,
+   "feasible": true
+  },
+  {
+   "gen": 147,
+   "value": 69653895.6056,
+   "feasible": true
+  },
+  {
+   "gen": 148,
+   "value": 69653895.6056,
+   "feasible": true
+  },
+  {
+   "gen": 149,
+   "value": 69653895.6056,
+   "feasible": true
+  },
+  {
+   "gen": 150,
+   "value": 69653895.6056,
+   "feasible": true
+  },
+  {
+   "gen": 151,
+   "value": 69653895.6056,
+   "feasible": true
+  },
+  {
+   "gen": 152,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 153,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 154,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 155,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 156,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 157,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 158,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 159,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 160,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 161,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 162,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 163,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 164,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 165,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 166,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 167,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 168,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 169,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 170,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 171,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 172,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 173,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 174,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 175,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 176,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 177,
+   "value": 66013998.59599998,
+   "feasible": true
+  },
+  {
+   "gen": 178,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 179,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 180,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 181,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 182,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 183,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 184,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 185,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 186,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 187,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 188,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 189,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 190,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 191,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 192,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 193,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 194,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 195,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 196,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 197,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 198,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 199,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 200,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 201,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 202,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 203,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 204,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 205,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 206,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 207,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 208,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 209,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 210,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 211,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 212,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 213,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 214,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 215,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 216,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 217,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 218,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 219,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 220,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 221,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 222,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 223,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 224,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 225,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 226,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 227,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 228,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 229,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 230,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 231,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 232,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 233,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 234,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 235,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 236,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 237,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 238,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 239,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 240,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 241,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 242,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 243,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 244,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 245,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 246,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 247,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 248,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 249,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 250,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 251,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 252,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 253,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 254,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 255,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 256,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 257,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 258,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 259,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 260,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 261,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 262,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 263,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 264,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 265,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 266,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 267,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 268,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 269,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 270,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 271,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 272,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 273,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 274,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 275,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 276,
+   "value": 64678557.686799996,
+   "feasible": false
+  },
+  {
+   "gen": 277,
+   "value": 64696595.64899998,
+   "feasible": true
+  },
+  {
+   "gen": 278,
+   "value": 64696595.64899998,
+   "feasible": true
+  },
+  {
+   "gen": 279,
+   "value": 64696595.64899998,
+   "feasible": true
+  },
+  {
+   "gen": 280,
+   "value": 64696595.64899998,
+   "feasible": true
+  },
+  {
+   "gen": 281,
+   "value": 64696595.64899998,
+   "feasible": true
+  },
+  {
+   "gen": 282,
+   "value": 64696595.64899998,
+   "feasible": true
+  },
+  {
+   "gen": 283,
+   "value": 64696595.64899998,
+   "feasible": true
+  },
+  {
+   "gen": 284,
+   "value": 64696595.64899998,
+   "feasible": true
+  },
+  {
+   "gen": 285,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 286,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 287,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 288,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 289,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 290,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 291,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 292,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 293,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 294,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 295,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 296,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 297,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 298,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 299,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 300,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 301,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 302,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 303,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 304,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 305,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 306,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 307,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 308,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 309,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 310,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 311,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 312,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 313,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 314,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 315,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 316,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 317,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 318,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 319,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 320,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 321,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 322,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 323,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 324,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 325,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 326,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 327,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 328,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 329,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 330,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 331,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 332,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 333,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 334,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 335,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 336,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 337,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 338,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 339,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 340,
+   "value": 64594906.364800006,
+   "feasible": true
+  },
+  {
+   "gen": 341,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 342,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 343,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 344,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 345,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 346,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 347,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 348,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 349,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 350,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 351,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 352,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 353,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 354,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 355,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 356,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 357,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 358,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 359,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 360,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 361,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 362,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 363,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 364,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 365,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 366,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 367,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 368,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 369,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 370,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 371,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 372,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 373,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 374,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 375,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 376,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 377,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 378,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 379,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 380,
+   "value": 63623330.76280001,
+   "feasible": true
+  },
+  {
+   "gen": 381,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 382,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 383,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 384,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 385,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 386,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 387,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 388,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 389,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 390,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 391,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 392,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 393,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 394,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 395,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 396,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 397,
+   "value": 63307151.09139998,
+   "feasible": true
+  },
+  {
+   "gen": 398,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 399,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 400,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 401,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 402,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 403,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 404,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 405,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 406,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 407,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 408,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 409,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 410,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 411,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 412,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 413,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 414,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 415,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 416,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 417,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 418,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 419,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 420,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 421,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 422,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 423,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 424,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 425,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 426,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 427,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 428,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 429,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 430,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 431,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 432,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 433,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 434,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 435,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 436,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 437,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 438,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 439,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 440,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 441,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 442,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 443,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 444,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 445,
+   "value": 61749959.9008,
+   "feasible": false
+  },
+  {
+   "gen": 446,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 447,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 448,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 449,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 450,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 451,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 452,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 453,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 454,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 455,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 456,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 457,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 458,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 459,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 460,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 461,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 462,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 463,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 464,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 465,
+   "value": 62414283.568399996,
+   "feasible": true
+  },
+  {
+   "gen": 466,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 467,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 468,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 469,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 470,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 471,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 472,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 473,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 474,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 475,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 476,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 477,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 478,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 479,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 480,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 481,
+   "value": 62194252.13659998,
+   "feasible": true
+  },
+  {
+   "gen": 482,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 483,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 484,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 485,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 486,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 487,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 488,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 489,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 490,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 491,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 492,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 493,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 494,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 495,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 496,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 497,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 498,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 499,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 500,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 501,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 502,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 503,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 504,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 505,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 506,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 507,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 508,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 509,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 510,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 511,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 512,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 513,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 514,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 515,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 516,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 517,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 518,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 519,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 520,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 521,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 522,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 523,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 524,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 525,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 526,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 527,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 528,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 529,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 530,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 531,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 532,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 533,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 534,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 535,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 536,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 537,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 538,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 539,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 540,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 541,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 542,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 543,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 544,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 545,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 546,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 547,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 548,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 549,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 550,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 551,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 552,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 553,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 554,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 555,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 556,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 557,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 558,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 559,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 560,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 561,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 562,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 563,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 564,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 565,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 566,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 567,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 568,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 569,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 570,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 571,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 572,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 573,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 574,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 575,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 576,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 577,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 578,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 579,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 580,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 581,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 582,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 583,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 584,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 585,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 586,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 587,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 588,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 589,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 590,
+   "value": 60791450.30499995,
+   "feasible": true
+  },
+  {
+   "gen": 591,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 592,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 593,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 594,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 595,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 596,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 597,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 598,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 599,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 600,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 601,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 602,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 603,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 604,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 605,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 606,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 607,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 608,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 609,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 610,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 611,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 612,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 613,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 614,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 615,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 616,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 617,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 618,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 619,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 620,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 621,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 622,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 623,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 624,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 625,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 626,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 627,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 628,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 629,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 630,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 631,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 632,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 633,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 634,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 635,
+   "value": 22059851.4774,
+   "feasible": true
+  },
+  {
+   "gen": 636,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 637,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 638,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 639,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 640,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 641,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 642,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 643,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 644,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 645,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 646,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 647,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 648,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 649,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 650,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 651,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 652,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 653,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 654,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 655,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 656,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 657,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 658,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 659,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 660,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 661,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 662,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 663,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 664,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 665,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 666,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 667,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 668,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 669,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 670,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 671,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 672,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 673,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 674,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 675,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 676,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 677,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 678,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 679,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 680,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 681,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 682,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 683,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 684,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 685,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 686,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 687,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 688,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 689,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 690,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 691,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 692,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 693,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 694,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 695,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 696,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 697,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 698,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 699,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 700,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 701,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 702,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 703,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 704,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 705,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 706,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 707,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 708,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 709,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 710,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 711,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 712,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 713,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 714,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 715,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 716,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 717,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 718,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 719,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 720,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 721,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 722,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 723,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 724,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 725,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 726,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 727,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 728,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 729,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 730,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 731,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 732,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 733,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 734,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 735,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 736,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 737,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 738,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 739,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 740,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 741,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 742,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 743,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 744,
+   "value": 21685994.58,
+   "feasible": true
+  },
+  {
+   "gen": 745,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 746,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 747,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 748,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 749,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 750,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 751,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 752,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 753,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 754,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 755,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 756,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 757,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 758,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 759,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 760,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 761,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 762,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 763,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 764,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 765,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 766,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 767,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 768,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 769,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 770,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 771,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 772,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 773,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 774,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 775,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 776,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 777,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 778,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 779,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 780,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 781,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 782,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 783,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 784,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 785,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 786,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 787,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 788,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 789,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 790,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 791,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 792,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 793,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 794,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 795,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 796,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 797,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 798,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 799,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 800,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 801,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 802,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 803,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 804,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 805,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 806,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 807,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 808,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 809,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 810,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 811,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 812,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 813,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 814,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 815,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 816,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 817,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 818,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 819,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 820,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 821,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 822,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 823,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 824,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 825,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 826,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 827,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 828,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 829,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 830,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 831,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 832,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 833,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 834,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 835,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 836,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 837,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 838,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 839,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 840,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 841,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 842,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 843,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 844,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 845,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 846,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 847,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 848,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 849,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 850,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 851,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 852,
+   "value": 15329994.306999998,
+   "feasible": true
+  },
+  {
+   "gen": 853,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 854,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 855,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 856,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 857,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 858,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 859,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 860,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 861,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 862,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 863,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 864,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 865,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 866,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 867,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 868,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 869,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 870,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 871,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 872,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 873,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 874,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 875,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 876,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 877,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 878,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 879,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 880,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 881,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 882,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 883,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 884,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 885,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 886,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 887,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 888,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 889,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 890,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 891,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 892,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 893,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 894,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 895,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 896,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 897,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 898,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 899,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 900,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 901,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 902,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 903,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 904,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 905,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 906,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 907,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 908,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 909,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 910,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 911,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 912,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 913,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 914,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 915,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 916,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 917,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 918,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 919,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 920,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 921,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 922,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 923,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 924,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 925,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 926,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 927,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 928,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 929,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 930,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 931,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 932,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 933,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 934,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 935,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 936,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 937,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 938,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 939,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 940,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 941,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 942,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 943,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 944,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 945,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 946,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 947,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 948,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 949,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 950,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 951,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 952,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 953,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 954,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 955,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 956,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 957,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 958,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 959,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 960,
+   "value": 13199515.747599997,
+   "feasible": true
+  },
+  {
+   "gen": 961,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 962,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 963,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 964,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 965,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 966,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 967,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 968,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 969,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 970,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 971,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 972,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 973,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 974,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 975,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 976,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 977,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 978,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 979,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 980,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 981,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 982,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 983,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 984,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 985,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 986,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 987,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 988,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 989,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 990,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 991,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 992,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 993,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 994,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 995,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 996,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 997,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 998,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 999,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1000,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1001,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1002,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1003,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1004,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1005,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1006,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1007,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1008,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1009,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1010,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1011,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1012,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1013,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1014,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1015,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1016,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1017,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1018,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1019,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1020,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1021,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1022,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1023,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1024,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1025,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1026,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1027,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1028,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1029,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1030,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1031,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1032,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1033,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1034,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1035,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1036,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1037,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1038,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1039,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1040,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1041,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1042,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1043,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1044,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1045,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1046,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1047,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1048,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1049,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1050,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1051,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1052,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1053,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1054,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1055,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1056,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1057,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1058,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1059,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1060,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1061,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1062,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1063,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1064,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1065,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1066,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1067,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1068,
+   "value": 12793679.796600001,
+   "feasible": true
+  },
+  {
+   "gen": 1069,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1070,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1071,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1072,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1073,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1074,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1075,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1076,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1077,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1078,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1079,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1080,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1081,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1082,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1083,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1084,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1085,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1086,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1087,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1088,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1089,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1090,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1091,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1092,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1093,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1094,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1095,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1096,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1097,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1098,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1099,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1100,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1101,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1102,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1103,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1104,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1105,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1106,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1107,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1108,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1109,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1110,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1111,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1112,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1113,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1114,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1115,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1116,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1117,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1118,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1119,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1120,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1121,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1122,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1123,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1124,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1125,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1126,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1127,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1128,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1129,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1130,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1131,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1132,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1133,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1134,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1135,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1136,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1137,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1138,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1139,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1140,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1141,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1142,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1143,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1144,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1145,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1146,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1147,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1148,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1149,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1150,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1151,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1152,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1153,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1154,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1155,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1156,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1157,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1158,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1159,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1160,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1161,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1162,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1163,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1164,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1165,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1166,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1167,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1168,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1169,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1170,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1171,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1172,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1173,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1174,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1175,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1176,
+   "value": 12486909.020000001,
+   "feasible": true
+  },
+  {
+   "gen": 1177,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1178,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1179,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1180,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1181,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1182,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1183,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1184,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1185,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1186,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1187,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1188,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1189,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1190,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1191,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1192,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1193,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1194,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1195,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1196,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1197,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1198,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1199,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1200,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1201,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1202,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1203,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1204,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1205,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1206,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1207,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1208,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1209,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1210,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1211,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1212,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1213,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1214,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1215,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1216,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1217,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1218,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1219,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1220,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1221,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1222,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1223,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1224,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1225,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1226,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1227,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1228,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1229,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1230,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1231,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1232,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1233,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1234,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1235,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1236,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1237,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1238,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1239,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1240,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1241,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1242,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1243,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1244,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1245,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1246,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1247,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1248,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1249,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1250,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1251,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1252,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1253,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1254,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1255,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1256,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1257,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1258,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1259,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1260,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1261,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1262,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1263,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1264,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1265,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1266,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1267,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1268,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1269,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1270,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1271,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1272,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1273,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1274,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1275,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1276,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1277,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1278,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1279,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1280,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1281,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1282,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1283,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1284,
+   "value": 12369520.922600003,
+   "feasible": true
+  },
+  {
+   "gen": 1285,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1286,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1287,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1288,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1289,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1290,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1291,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1292,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1293,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1294,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1295,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1296,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1297,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1298,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1299,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1300,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1301,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1302,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1303,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1304,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1305,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1306,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1307,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1308,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1309,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1310,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1311,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1312,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1313,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1314,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1315,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1316,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1317,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1318,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1319,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1320,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1321,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1322,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1323,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1324,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1325,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1326,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1327,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1328,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1329,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1330,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1331,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1332,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1333,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1334,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1335,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1336,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1337,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1338,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1339,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1340,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1341,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1342,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1343,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1344,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1345,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1346,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1347,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1348,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1349,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1350,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1351,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1352,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1353,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1354,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1355,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1356,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1357,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1358,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1359,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1360,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1361,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1362,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1363,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1364,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1365,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1366,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1367,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1368,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1369,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1370,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1371,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1372,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1373,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1374,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1375,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1376,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1377,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1378,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1379,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1380,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1381,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1382,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1383,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1384,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1385,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1386,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1387,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1388,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1389,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1390,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1391,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1392,
+   "value": 12288029.467600003,
+   "feasible": true
+  },
+  {
+   "gen": 1393,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1394,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1395,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1396,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1397,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1398,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1399,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1400,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1401,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1402,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1403,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1404,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1405,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1406,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1407,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1408,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1409,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1410,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1411,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1412,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1413,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1414,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1415,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1416,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1417,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1418,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1419,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1420,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1421,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1422,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1423,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1424,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1425,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1426,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1427,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1428,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1429,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1430,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1431,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1432,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1433,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1434,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1435,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1436,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1437,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1438,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1439,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1440,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1441,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1442,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1443,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1444,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1445,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1446,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1447,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1448,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1449,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1450,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1451,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1452,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1453,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1454,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1455,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1456,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1457,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1458,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1459,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1460,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1461,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1462,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1463,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1464,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1465,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1466,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1467,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1468,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1469,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1470,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1471,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1472,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1473,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1474,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1475,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1476,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1477,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1478,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1479,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1480,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1481,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1482,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1483,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1484,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1485,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1486,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1487,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1488,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1489,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1490,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1491,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1492,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1493,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1494,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1495,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1496,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1497,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1498,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1499,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1500,
+   "value": 12109488.215400007,
+   "feasible": true
+  },
+  {
+   "gen": 1501,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1502,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1503,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1504,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1505,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1506,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1507,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1508,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1509,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1510,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1511,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1512,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1513,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1514,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1515,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1516,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1517,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1518,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1519,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1520,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1521,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1522,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1523,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1524,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1525,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1526,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1527,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1528,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1529,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1530,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1531,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1532,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1533,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1534,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1535,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1536,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1537,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1538,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1539,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1540,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1541,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1542,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1543,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1544,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1545,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1546,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1547,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1548,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1549,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1550,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1551,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1552,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1553,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1554,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1555,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1556,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1557,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1558,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1559,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1560,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1561,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1562,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1563,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1564,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1565,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1566,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1567,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1568,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1569,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1570,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1571,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1572,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1573,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1574,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1575,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1576,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1577,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1578,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1579,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1580,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1581,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1582,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1583,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1584,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1585,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1586,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1587,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1588,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1589,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1590,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1591,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1592,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1593,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1594,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1595,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1596,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1597,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1598,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1599,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1600,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1601,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1602,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1603,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1604,
+   "value": 11970133.500000004,
+   "feasible": true
+  },
+  {
+   "gen": 1605,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1606,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1607,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1608,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1609,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1610,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1611,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1612,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1613,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1614,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1615,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1616,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1617,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1618,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1619,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1620,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1621,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1622,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1623,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1624,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1625,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1626,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1627,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1628,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1629,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1630,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1631,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1632,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1633,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1634,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1635,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1636,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1637,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1638,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1639,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1640,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1641,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1642,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1643,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1644,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1645,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1646,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1647,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1648,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1649,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1650,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1651,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1652,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1653,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1654,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1655,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1656,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1657,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1658,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1659,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1660,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1661,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1662,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1663,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1664,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1665,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1666,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1667,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1668,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1669,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1670,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1671,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1672,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1673,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1674,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1675,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1676,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1677,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1678,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1679,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1680,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1681,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1682,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1683,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1684,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1685,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1686,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1687,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1688,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1689,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1690,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1691,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1692,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1693,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1694,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1695,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1696,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1697,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1698,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1699,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1700,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1701,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1702,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1703,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1704,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1705,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1706,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1707,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1708,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1709,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1710,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1711,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1712,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1713,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1714,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1715,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1716,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1717,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1718,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1719,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1720,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1721,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1722,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1723,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1724,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1725,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1726,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1727,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1728,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1729,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1730,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1731,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1732,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1733,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1734,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1735,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1736,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1737,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1738,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1739,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1740,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1741,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1742,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1743,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1744,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1745,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1746,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1747,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1748,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1749,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1750,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1751,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1752,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1753,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1754,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1755,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1756,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1757,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1758,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1759,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1760,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1761,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1762,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1763,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1764,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1765,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1766,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1767,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1768,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1769,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1770,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1771,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1772,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1773,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1774,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1775,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1776,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1777,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1778,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1779,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1780,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1781,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1782,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1783,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1784,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1785,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1786,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1787,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1788,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1789,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1790,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1791,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1792,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1793,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1794,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1795,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1796,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1797,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1798,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1799,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1800,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1801,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1802,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1803,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1804,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1805,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1806,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1807,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1808,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1809,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1810,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1811,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1812,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1813,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1814,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1815,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1816,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1817,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1818,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1819,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1820,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1821,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1822,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1823,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1824,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1825,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1826,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1827,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1828,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1829,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1830,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1831,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1832,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1833,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1834,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1835,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1836,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1837,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1838,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1839,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1840,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1841,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1842,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1843,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1844,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1845,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1846,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1847,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1848,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1849,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1850,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1851,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1852,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1853,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1854,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1855,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1856,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1857,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1858,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1859,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1860,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1861,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1862,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1863,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1864,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1865,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1866,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1867,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1868,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1869,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1870,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1871,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1872,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1873,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1874,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1875,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1876,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1877,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1878,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1879,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1880,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1881,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1882,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1883,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1884,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1885,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1886,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1887,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1888,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1889,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1890,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1891,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1892,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1893,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1894,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1895,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1896,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1897,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1898,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1899,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1900,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1901,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1902,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1903,
+   "value": 11925518.859800007,
+   "feasible": true
+  },
+  {
+   "gen": 1904,
+   "value": 11925518.859800007,
+   "feasible": true
+  }
+ ]
+}

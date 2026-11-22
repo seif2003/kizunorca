@@ -1,0 +1,242 @@
+[TITLE]
+ORCANET Export
+Généré par ORCANET — 22/11/2026
+
+[JUNCTIONS]
+;ID              	Elev	Demande	Pattern
+J1               3                0.5                              
+J2               3                1.67                             
+J3               3                1.17                             
+J4               0                0.67                             
+J5               3                1.83                             
+J6               10               1.33                             
+J7               3                0.83                             
+J8               0                2                                
+J9               2                1.5                              
+J10              3                1                                
+J11              6                0.5                              
+J13              3                1.67                             
+J14              3                1.17                             
+J15              2                0.67                             
+J16              2                1.83                             
+J17              3                1.33                             
+J18              10               0.83                             
+J19              6                2                                
+J20              12               1.5                              
+J21              21               1                                
+J22              20               0.5                              
+J23              3                1.67                             
+J24              3                1.17                             
+J25              3                0.67                             
+J26              2                1.83                             
+J27              5                1.33                             
+J28              1                0.83                             
+J29              3                2                                
+J30              4                1.5                              
+J31              10               1                                
+J32              12               0.5                              
+J33              6                1.67                             
+J34              6                1.17                             
+J35              11               0.67                             
+J36              20               1.83                             
+J37              20               1.33                             
+J38              3                0.83                             
+J39              3                2                                
+J40              3                1.5                              
+J41              2                1                                
+J42              2                0.5                              
+J43              2                1.67                             
+J44              5                1.17                             
+J45              6                0.67                             
+J46              5                1.83                             
+J47              5                1.33                             
+J48              3                0.83                             
+J49              4                2                                
+J50              4                1.5                              
+J51              10               1                                
+J52              3                0.5                              
+J53              12               1.67                             
+J54              7                1.17                             
+J55              6                0.67                             
+J56              15               1.83                             
+J57              11               1.33                             
+J58              15               0.83                             
+J59              8                2                                
+J60              3                1.5                              
+
+[RESERVOIRS]
+;ID              	Charge	Pattern
+R1               66                               
+
+[TANKS]
+;ID              	Elev	NivInit	NivMin	NivMax	Diam	VolMin	Courbe	Deverse
+
+[PIPES]
+;ID              	Noeud1	Noeud2	Longueur	Diam	Rugos	Mineure	Statut
+P1               J1               J3               44               125              150              0                open            
+P2               J2               J1               6                200              150              0                open            
+P3               J3               J7               8                110              150              0                open            
+P4               J4               J1               55               125              150              0                open            
+P5               J4               J8               20               110              150              0                open            
+P6               J5               J2               22               160              150              0                open            
+P7               J5               J10              15               160              150              0                open            
+P8               J6               R1               77               250              150              0                open            
+P9               J6               J11              141              63               150              0                open            
+P10              J6               J2               70               250              150              0                open            
+P11              J8               J3               60               63               150              0                open            
+P12              J9               J16              13               63               150              0                open            
+P13              J9               J4               69               63               150              0                open            
+P14              J11              J20              77               63               150              0                open            
+P15              J13              J7               38               75               150              0                open            
+P16              J13              J23              6                63               150              0                open            
+P17              J13              J24              19               63               150              0                open            
+P18              J14              J7               19               75               150              0                open            
+P19              J15              J26              9                110              150              0                open            
+P20              J15              J8               41               110              150              0                open            
+P21              J16              J11              99               63               150              0                open            
+P22              J16              J27              58               63               150              0                open            
+P23              J17              J29              12               90               150              0                open            
+P24              J17              J10              6                125              150              0                open            
+P25              J18              J32              55               63               150              0                open            
+P26              J18              J31              36               63               150              0                open            
+P27              J18              J10              64               90               150              0                open            
+P28              J19              J11              52               63               150              0                open            
+P29              J19              J34              77               63               150              0                open            
+P30              J19              J33              36               63               150              0                open            
+P31              J20              J34              52               63               150              0                open            
+P32              J21              R1               79               110              150              0                open            
+P33              J21              J20              61               90               150              0                open            
+P34              J22              R1               26               90               150              0                open            
+P35              J22              J37              60               75               150              0                open            
+P36              J25              J40              16               63               150              0                open            
+P37              J25              J14              64               63               150              0                open            
+P38              J26              J27              42               63               150              0                open            
+P39              J27              J42              68               63               150              0                open            
+P40              J27              J43              68               63               150              0                open            
+P41              J28              J47              53               63               150              0                open            
+P42              J28              J16              97               63               150              0                open            
+P43              J28              J46              64               63               150              0                open            
+P44              J28              J45              99               63               150              0                open            
+P45              J29              J23              41               75               150              0                open            
+P46              J30              J17              59               75               150              0                open            
+P47              J30              J48              30               63               150              0                open            
+P48              J30              J50              4                63               150              0                open            
+P49              J31              J52              59               63               150              0                open            
+P50              J32              J53              54               63               150              0                open            
+P51              J32              J54              57               63               150              0                open            
+P52              J33              J45              9                63               150              0                open            
+P53              J34              J56              86               63               150              0                open            
+P54              J35              J20              87               63               150              0                open            
+P55              J35              J58              85               63               150              0                open            
+P56              J35              J56              51               63               150              0                open            
+P57              J36              J21              25               63               150              0                open            
+P58              J36              J57              62               63               150              0                open            
+P59              J36              J22              79               63               150              0                open            
+P60              J38              J23              20               63               150              0                open            
+P61              J39              J24              61               63               150              0                open            
+P62              J40              J43              144              63               150              0                open            
+P63              J41              J26              36               63               150              0                open            
+P64              J41              J42              45               63               150              0                open            
+P65              J41              J43              46               63               150              0                open            
+P66              J44              J27              53               63               150              0                open            
+P67              J44              J46              41               63               150              0                open            
+P68              J48              J38              7                63               150              0                open            
+P69              J49              J30              11               63               150              0                open            
+P70              J51              J31              28               63               150              0                open            
+P71              J55              J34              43               63               150              0                open            
+P72              J57              J35              62               75               150              0                open            
+P73              J57              J37              78               63               150              0                open            
+P74              J59              J37              55               63               150              0                open            
+P75              J60              J38              23               63               150              0                open            
+
+[PUMPS]
+;ID              	Noeud1	Noeud2	Parametres
+
+[VALVES]
+;ID              	Noeud1	Noeud2	Diam	Type	Reglage	Mineure
+
+[PATTERNS]
+
+[CURVES]
+
+[OPTIONS]
+Units           LPS
+Headloss        H-W
+Specific Gravity  1.0
+Viscosity       1
+Trials          40
+Accuracy        0.001
+
+[TIMES]
+Duration        24:00
+Hydraulic Timestep  1:00
+Quality Timestep    0:05:00
+Pattern Timestep    1:00:00
+Report Timestep     1:00
+Pattern Start       0:00
+Start ClockTime     0:00
+
+[COORDINATES]
+;ID              	X	Y
+J1               10.19            36.80           
+J2               10.19            36.80           
+J3               10.19            36.80           
+J4               10.19            36.80           
+J5               10.19            36.80           
+J6               10.19            36.80           
+J7               10.19            36.80           
+J8               10.19            36.80           
+J9               10.19            36.80           
+J10              10.19            36.80           
+J11              10.19            36.80           
+J13              10.19            36.80           
+J14              10.19            36.80           
+J15              10.19            36.80           
+J16              10.19            36.80           
+J17              10.19            36.80           
+J18              10.19            36.80           
+J19              10.19            36.80           
+J20              10.18            36.80           
+J21              10.18            36.80           
+J22              10.18            36.80           
+J23              10.19            36.80           
+J24              10.19            36.80           
+J25              10.19            36.80           
+J26              10.19            36.80           
+J27              10.19            36.80           
+J28              10.19            36.80           
+J29              10.19            36.80           
+J30              10.19            36.80           
+J31              10.19            36.80           
+J32              10.18            36.80           
+J33              10.19            36.80           
+J34              10.18            36.80           
+J35              10.18            36.80           
+J36              10.18            36.80           
+J37              10.18            36.80           
+J38              10.19            36.80           
+J39              10.19            36.80           
+J40              10.19            36.80           
+J41              10.19            36.80           
+J42              10.19            36.80           
+J43              10.19            36.80           
+J44              10.19            36.80           
+J45              10.19            36.80           
+J46              10.19            36.80           
+J47              10.19            36.80           
+J48              10.19            36.80           
+J49              10.19            36.80           
+J50              10.19            36.80           
+J51              10.19            36.80           
+J52              10.19            36.80           
+J53              10.18            36.80           
+J54              10.18            36.80           
+J55              10.18            36.80           
+J56              10.18            36.80           
+J57              10.18            36.80           
+J58              10.18            36.80           
+J59              10.18            36.80           
+J60              10.19            36.80           
+R1               10.18            36.80           
+
+[END]

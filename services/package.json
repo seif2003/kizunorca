@@ -1,0 +1,13 @@
+{
+  "name": "kizunorca-services",
+  "private": true,
+  "type": "module",
+  "description": "Microservices KizunOrca (gateway, agent). Le service d'optimisation relève du moteur propriétaire Orcadeep.",
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.70.1",
+    "bullmq": "5.81.6",
+    "ioredis": "5.11.1",
+    "proj4": "2.23.0",
+    "tsx": "4.23.15"
+  }
+}
